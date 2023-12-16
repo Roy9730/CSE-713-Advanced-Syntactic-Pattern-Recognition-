@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1vSmrdb_mBZkWWVKWHTLUuBYJyIu_sR97OhrINggVi8w/edit#slide=id.p
 
 Project title:
-Advancing Breast cancer detection: A Systematic Review of Breast Cancer Detection Techniques and a Path to Scalable Real-Time Solutions
+A Comprehensive Analysis of Machine Learning Algorithms for Breast Cancer Classification Across Diverse Image Modalities
 
 Group Number:
 15
